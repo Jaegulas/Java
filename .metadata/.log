@@ -481,6 +481,7 @@ java.nio.file.NoSuchFileException: C:\Users\KHBS_D_0\.p2\pool\plugins\org.eclips
 	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:208)
 	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:309)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+<<<<<<< HEAD
 !SESSION 2026-06-29 14:12:38.282 -----------------------------------------------
 eclipse.buildId=4.40.0.20260604-0652
 java.version=21.0.11
@@ -612,3 +613,5 @@ java.lang.IllegalStateException: Disconnected before saving. https://bugs.eclips
 		at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4136)
 		at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3752)
 		... 19 more
+=======
+>>>>>>> 51f18cbdb175342d6a285deda00dc2b8e73c7499

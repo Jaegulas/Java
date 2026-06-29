@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
     <entry loc="C:\Users\KHBS_D_0\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531\jre" stamp="1781067282786"/>
+<<<<<<< HEAD
     <entry loc="C:\Users\KHBS_D_18\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531" stamp="1782367535700"/>
     <entry loc="C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot" stamp="1782364944140"/>
     <entry loc="C:\Users\KHBS_D_0\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531" stamp="1781067282786"/>
     <entry loc="C:\Users\KHBS_D_18\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531\jre" stamp="1782367535700"/>
+=======
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot" stamp="1782364944140"/>
+    <entry loc="C:\Users\KHBS_D_0\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.11.v20260515-1531" stamp="1781067282786"/>
+>>>>>>> 51f18cbdb175342d6a285deda00dc2b8e73c7499
 </dirs>
