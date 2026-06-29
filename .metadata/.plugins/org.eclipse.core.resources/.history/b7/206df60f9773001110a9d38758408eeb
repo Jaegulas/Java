@@ -1,0 +1,21 @@
+
+public class Opr08 {
+
+	public static void main(String[] args) {
+		
+		int a = 10, b = 10; 
+		
+		/*
+		 	++ 증가연산자가 변수명a 앞에 붙으면 선행처리 이므로 a변수값이 1증가된 후에
+		 	출력되어 11이 출력됩니다.
+		 */
+		
+		System.out.println(++a); 
+		// 다시 한번더 a변수값 출력해도 11이 출력됩니다.
+		System.out.println(a);
+		
+		
+
+	}
+
+}

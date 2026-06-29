@@ -1,0 +1,20 @@
+
+public class Opr04 {
+
+	public static void main(String[] args) {
+		
+		int age = 15;
+		
+		/*
+		 * 	[질문] 이 사람은 10대 입니까?
+		 * 10대의 조건: 10살 이상 '이고(&&)' 19살 이하.
+		 */
+		boolean result = age >= 10 && age <= 19;
+	    //				  15 >= 10 && 15  <= 19; 
+		//					true   &&   true;
+		//					      true;
+		
+		System.out.println(" age변수 나이는?" + result);
+	}
+
+}
